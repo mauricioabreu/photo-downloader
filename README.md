@@ -9,5 +9,5 @@ Available social networks:
 ## Usage
 
 ```console
-photo-downloader -p mauricio.abreuantunes
+photo-downloader --profile <facebook_id>
 ```
